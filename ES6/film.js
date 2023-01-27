@@ -1,6 +1,3 @@
-//ilk olarak film constructor u yazmak istiyoruz. bu yuzden film.js de yapıcaz.
-
-//her filmin : title , director(yonetmen) ve url(resim url si) si olacak.
 
 //------------------------------------------------------------------------------------------
 //Film Constructor:
@@ -10,7 +7,7 @@
 //     this.url = url ;
 // }
 
-//bu constructor u project.js de kullanıcaz.
+
 //------------------------------------------------------------------------------------------
 
 //ilk olarak formumuzu seçmemiz gerekiyor."film ekleyin" butonuna bastıgımız zaman film eklemeye çalışıcaz.bunu ana js dosyamız olan project.js de yapıcaz.
